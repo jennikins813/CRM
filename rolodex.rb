@@ -76,13 +76,4 @@ class Rolodex
 	end
 end
 
-#
-#    def remove_contact(id)       #nn intro a concept of an ID/id
-#         result = nil
-#         @contacts.each do |contact|
-#              if contact.id == id
-#                  result = contact
-#              end
-#         end
-#         @contacts.delete(result) if result != nil
-#    end
+
